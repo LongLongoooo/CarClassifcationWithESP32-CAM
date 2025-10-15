@@ -8,7 +8,7 @@ This project demonstrates the full workflow from dataset preprocessing and model
 
 ## 📸 Overview
 
-| ![ESP32-CAM](https://upload.wikimedia.org/wikipedia/commons/7/7e/ESP32-CAM.jpg) | ![Cars](https://upload.wikimedia.org/wikipedia/commons/0/03/Mercedes-Benz_C-Class_%28W205%29.jpg) |
+| ![ESP32-CAM]([https://upload.wikimedia.org/wikipedia/commons/7/7e/ESP32-CAM.jpg](https://www.fanos.gr/image/cache/catalog/products/test/ARDA/1234567-900x900.jpg)) | ![Cars](https://upload.wikimedia.org/wikipedia/commons/0/03/Mercedes-Benz_C-Class_%28W205%29.jpg) |
 |:--:|:--:|
 | *ESP32-CAM device used for real-time classification* | *Target brands: Mercedes-Benz, Porsche, MINI* |
 
@@ -16,7 +16,7 @@ This project demonstrates the full workflow from dataset preprocessing and model
 
 ## 🧠 Dataset
 
-- **Source:** [Ahmed ElSany – Car Brand Classification Dataset (Kaggle)](https://www.kaggle.com/datasets/ahmedelsayed268/car-brand-classification)
+- **Source:** [Ahmed ElSany – Car Brand Classification Dataset (Kaggle)]([https://www.kaggle.com/datasets/ahmedelsayed268/car-brand-classification](https://www.kaggle.com/datasets/ahmedelsany/car-brand-classification-dataset/data))
 - **Classes:** `Mercedes-Benz`, `Porsche`, `MINI`
 - **Format:** Image dataset with labeled folders
 - **Usage:** Preprocessed and split for training and validation in Jupyter
@@ -79,11 +79,10 @@ This project demonstrates the full workflow from dataset preprocessing and model
 
 | Input Image | Predicted Label |
 |--------------|----------------|
-| ![Mercedes](https://upload.wikimedia.org/wikipedia/commons/f/f9/Mercedes-Benz_logo_2010.svg) | Mercedes-Benz |
-| ![Porsche](https://upload.wikimedia.org/wikipedia/commons/2/2e/Porsche_logo.svg) | Porsche |
-| ![MINI](https://upload.wikimedia.org/wikipedia/commons/4/4d/MINI_logo_2018.svg) | MINI |
+| ![Mercedes]([https://upload.wikimedia.org/wikipedia/commons/f/f9/Mercedes-Benz_logo_2010.svg](https://i1-vnexpress.vnecdn.net/2023/03/21/IMG1897JPG-1679392112.jpg?w=500&h=300&q=100&dpr=1&fit=crop&s=0LeqT9fU9bzC7DOy7N7hqw&t=image)) | Mercedes-Benz |
+| ![Porsche]([https://upload.wikimedia.org/wikipedia/commons/2/2e/Porsche_logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEpLKk5Zy9SjLguS6x7AP5GIDjzoNiDvPUbg&s)) | Porsche |
+| ![MINI]([https://upload.wikimedia.org/wikipedia/commons/4/4d/MINI_logo_2018.svg](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_16oJL6SLHDkV4d6693fXl_6Bj4fWzsw2V2zc3ntiZIV_86ubeAwsJSSWro37iK4gPykzVPcp0F9dWDieFl3lvpdvH_orKC_ZwqoMew)) | MINI |
 
 ---
 
-## 📂 Repository Structure
 
